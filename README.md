@@ -1,7 +1,7 @@
 #*QUANTITATIVE DESK*
 --
 This has been a long holiday and thus I have time to compile all of my stuff into one repo.
-
+* **dcf.py**: a not-too-standard DCF/asset evaluation engine, combines Poisson jumps with growth decay (technically monte-carlo).
 * **gbm_normal**: a standard Geometric Brownian Motion simulation.
 * **gbm_merton**: a Geometric Brownian Motion with jump-diffusion (poisson probability) simulation.
 * **obi.py**: connects to a real-time asset and watch the Order Book Imbalance in real-time.
